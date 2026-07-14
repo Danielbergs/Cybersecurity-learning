@@ -11,3 +11,6 @@ Pass the Microsoft SC-900 certification and build a solid foundation in Microsof
 - [ ] Microsoft Learn
 - [ ] Practice Assessments
 - [ ] SC-900 Certification Exam
+
+## Status
+In progress
