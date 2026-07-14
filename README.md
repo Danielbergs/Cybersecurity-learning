@@ -1,5 +1,4 @@
-# Cybersecurity-learning
-# Cybersecurity Learning Portfolio
+# Cybersecurity-learning-portfolio
 
 Hi, I'm Daniel.
 
