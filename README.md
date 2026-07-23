@@ -18,6 +18,6 @@ My goal is to build practical skills and continuously develop within cybersecuri
 
 - [x] Cybersecurity (3 ECTS)
 - [x] AI course (2 ECTS)
-- [ ] Microsoft SC-900
+- [x] Microsoft SC-900
 - [ ] TryHackMe
 - [ ] ISC2 Certified in Cybersecurity (CC)
